@@ -1,4 +1,4 @@
-var backgroundColors = ['#ffcccc', '#ccffcc'];
+var backgroundColors = ['#E78895', '#6AD4DD'];
 var currentColorIndex = 0;
 
 function changeImage() {
